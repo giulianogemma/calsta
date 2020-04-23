@@ -1,528 +1,528 @@
-"uid"
-7
-1
-1
-2
-1
-3
-8
-6
-1
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-7
-16
-11
-2
-15
-8
-1
-3
-2
-22
-6
-4
-4
-6
-2
-28
-15
-2
-2
-1
-1
-1
-1
-1
-1
-1
-15
-6
-5
-9
-6
-1
-7
-15
-2
-1
-6
-24
-8
-5
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-9
-10
-5
-9
-3
-4
-12
-10
-3
-9
-3
-4
-9
-6
-10
-6
-4
-8
-6
-6
-5
-5
-4
-1
-1
-1
-1
-1
-1
-1
-3
-3
-5
-2
-1
-4
-1
-6
-5
-8
-1
-1
-2
-4
-1
-1
-1
-1
-1
-2
-1
-2
-2
-2
-5
-8
-7
-2
-2
-1
-1
-1
-2
-2
-13
-20
-12
-3
-8
-6
-17
-4
-7
-2
-20
-6
-5
-2
-4
-17
-4
-1
-15
-1
-2
-9
-1
-2
-10
-2
-3
-3
-9
-4
-3
-4
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-3
-6
-2
-2
-1
-2
-3
-4
-4
-11
-2
-1
-2
-3
-4
-2
-1
-1
-2
-2
-1
-1
-1
-7
-2
-1
-3
-3
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-6
-2
-4
-2
-2
-7
-17
-9
-1
-3
-14
-7
-1
-2
-19
-8
-5
-2
-16
-6
-3
-6
-6
-2
-1
-7
-3
-6
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-28
-8
-4
-8
-3
-4
-5
-1
-1
-16
-5
-3
-12
-2
-3
-11
-5
-4
-5
-3
-1
+"recettore","data_evento","source","meteo","numero_intersezioni"
+"R1","2019-06-26 22:00:00","Costieri D’Alesio","ispra",7
+"R1","2019-06-26 22:00:00","Costieri D’Alesio","lamma",1
+"R1","2019-06-26 22:00:00","Costiero gas","ispra",1
+"R1","2019-06-26 22:00:00","Depositi Costieri del Tirreno","ispra",2
+"R1","2019-06-26 22:00:00","Depositi Costieri del Tirreno","lamma",1
+"R1","2019-06-26 22:00:00","Depositi Neri","ispra",3
+"R1","2019-06-26 22:00:00","Raffineria ENI","ispra",8
+"R1","2019-06-26 22:00:00","Raffineria ENI","lamma",6
+"R1","2019-06-26 22:00:00","SAI","ispra",1
+"R1","2019-06-26 22:00:00","Toscopetrol","ispra",3
+"R1","2019-06-26 22:00:00","Toscopetrol","lamma",1
+"R1","2019-06-29 22:41:00","Costieri D’Alesio","eni",1
+"R1","2019-06-29 22:41:00","Costiero gas","eni",1
+"R1","2019-06-29 22:41:00","Depositi Neri","eni",1
+"R1","2019-06-29 22:41:00","SAI","eni",1
+"R1","2019-06-30 05:54:00","Costieri D’Alesio","eni",1
+"R1","2019-06-30 05:54:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-06-30 05:54:00","Raffineria ENI","eni",1
+"R1","2019-06-30 05:54:00","Toscopetrol","eni",1
+"R1","2019-07-01 08:56:00","Costieri D’Alesio","lamma",1
+"R1","2019-07-01 08:56:00","Depositi Neri","lamma",1
+"R1","2019-07-01 08:56:00","Raffineria ENI","lamma",1
+"R1","2019-07-01 08:56:00","SAI","lamma",1
+"R1","2019-07-02 04:52:00","Depositi Neri","lamma",1
+"R1","2019-07-02 04:52:00","SAI","ispra",1
+"R1","2019-07-02 04:52:00","SAI","lamma",1
+"R1","2019-07-03 01:14:00","Costieri D’Alesio","ispra",1
+"R1","2019-07-03 01:14:00","Costieri D’Alesio","lamma",1
+"R1","2019-07-03 01:14:00","Costiero gas","eni",1
+"R1","2019-07-03 01:14:00","Costiero gas","ispra",1
+"R1","2019-07-03 01:14:00","Costiero gas","lamma",1
+"R1","2019-07-03 01:14:00","Depositi Neri","lamma",1
+"R1","2019-07-03 01:14:00","SAI","eni",1
+"R1","2019-07-03 01:14:00","SAI","lamma",1
+"R1","2019-07-06 02:05:00","Costieri D’Alesio","eni",1
+"R1","2019-07-06 02:05:00","Costiero gas","eni",1
+"R1","2019-07-06 02:05:00","Depositi Neri","eni",1
+"R1","2019-07-06 02:05:00","SAI","eni",1
+"R1","2019-07-07 02:33:00","Costieri D’Alesio","eni",1
+"R1","2019-07-07 02:33:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-07-07 02:33:00","Toscopetrol","eni",1
+"R1","2019-07-08 07:00:00","Costieri D’Alesio","eni",1
+"R1","2019-07-08 07:00:00","Costiero gas","eni",1
+"R1","2019-07-08 07:00:00","Raffineria ENI","lamma",1
+"R1","2019-07-10 06:31:00","Raffineria ENI","eni",1
+"R1","2019-07-10 06:31:00","Raffineria ENI","lamma",1
+"R1","2019-07-12 01:17:00","SAI","eni",1
+"R1","2019-07-12 01:17:00","SAI","lamma",1
+"R1","2019-07-14 22:17:00","Raffineria ENI","ispra",1
+"R1","2019-08-11 23:50:00","Costieri D’Alesio","ispra",1
+"R1","2019-08-11 23:50:00","Costieri D’Alesio","lamma",1
+"R1","2019-08-11 23:50:00","Costiero gas","lamma",1
+"R1","2019-08-11 23:50:00","Depositi Costieri del Tirreno","ispra",1
+"R1","2019-08-11 23:50:00","Depositi Costieri del Tirreno","lamma",1
+"R1","2019-08-11 23:50:00","Raffineria ENI","eni",1
+"R1","2019-08-11 23:50:00","Raffineria ENI","ispra",1
+"R1","2019-08-11 23:50:00","Toscopetrol","ispra",1
+"R1","2019-08-12 00:00:00","Costieri D’Alesio","eni",7
+"R1","2019-08-12 00:00:00","Costieri D’Alesio","ispra",16
+"R1","2019-08-12 00:00:00","Costieri D’Alesio","lamma",11
+"R1","2019-08-12 00:00:00","Costiero gas","eni",2
+"R1","2019-08-12 00:00:00","Costiero gas","ispra",15
+"R1","2019-08-12 00:00:00","Costiero gas","lamma",8
+"R1","2019-08-12 00:00:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-08-12 00:00:00","Depositi Costieri del Tirreno","lamma",3
+"R1","2019-08-12 00:00:00","Depositi Neri","eni",2
+"R1","2019-08-12 00:00:00","Depositi Neri","ispra",22
+"R1","2019-08-12 00:00:00","Depositi Neri","lamma",6
+"R1","2019-08-12 00:00:00","Raffineria ENI","eni",4
+"R1","2019-08-12 00:00:00","Raffineria ENI","ispra",4
+"R1","2019-08-12 00:00:00","Raffineria ENI","lamma",6
+"R1","2019-08-12 00:00:00","SAI","eni",2
+"R1","2019-08-12 00:00:00","SAI","ispra",28
+"R1","2019-08-12 00:00:00","SAI","lamma",15
+"R1","2019-08-12 00:00:00","Toscopetrol","eni",2
+"R1","2019-08-12 00:00:00","Toscopetrol","lamma",2
+"R1","2019-08-20 09:27:00","Costieri D’Alesio","ispra",1
+"R1","2019-08-20 09:27:00","Depositi Neri","ispra",1
+"R1","2019-08-20 09:27:00","Raffineria ENI","ispra",1
+"R1","2019-08-20 09:27:00","SAI","ispra",1
+"R1","2019-08-24 10:00:00","Costieri D’Alesio","eni",1
+"R1","2019-08-24 10:00:00","Raffineria ENI","eni",1
+"R1","2019-08-24 10:00:00","Toscopetrol","eni",1
+"R1","2019-08-30 00:00:00","Costieri D’Alesio","eni",15
+"R1","2019-08-30 00:00:00","Costieri D’Alesio","ispra",6
+"R1","2019-08-30 00:00:00","Costiero gas","eni",5
+"R1","2019-08-30 00:00:00","Costiero gas","ispra",9
+"R1","2019-08-30 00:00:00","Depositi Costieri del Tirreno","eni",6
+"R1","2019-08-30 00:00:00","Depositi Costieri del Tirreno","ispra",1
+"R1","2019-08-30 00:00:00","Depositi Neri","eni",7
+"R1","2019-08-30 00:00:00","Depositi Neri","ispra",15
+"R1","2019-08-30 00:00:00","Raffineria ENI","eni",2
+"R1","2019-08-30 00:00:00","Raffineria ENI","ispra",1
+"R1","2019-08-30 00:00:00","SAI","eni",6
+"R1","2019-08-30 00:00:00","SAI","ispra",24
+"R1","2019-08-30 00:00:00","SAI","lamma",8
+"R1","2019-08-30 00:00:00","Toscopetrol","eni",5
+"R1","2019-08-30 03:16:00","Costieri D’Alesio","eni",1
+"R1","2019-08-30 03:16:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-08-30 03:16:00","Depositi Neri","ispra",1
+"R1","2019-08-30 03:16:00","SAI","ispra",1
+"R1","2019-09-09 07:58:00","Costieri D’Alesio","eni",1
+"R1","2019-09-09 07:58:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-09-09 07:58:00","Raffineria ENI","lamma",1
+"R1","2019-09-09 07:58:00","Toscopetrol","eni",1
+"R1","2019-09-21 07:55:00","Costieri D’Alesio","eni",1
+"R1","2019-09-21 07:55:00","Raffineria ENI","eni",1
+"R1","2019-09-21 07:55:00","Toscopetrol","eni",1
+"R1","2019-10-13 17:37:00","Costieri D’Alesio","eni",1
+"R1","2019-10-13 17:37:00","Costieri D’Alesio","ispra",1
+"R1","2019-10-13 17:37:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-10-13 17:37:00","Depositi Costieri del Tirreno","ispra",1
+"R1","2019-10-13 17:37:00","Raffineria ENI","eni",1
+"R1","2019-10-13 17:37:00","Raffineria ENI","ispra",1
+"R1","2019-10-13 17:37:00","Toscopetrol","eni",1
+"R1","2019-10-13 17:37:00","Toscopetrol","ispra",1
+"R1","2019-10-13 20:44:00","Costieri D’Alesio","eni",1
+"R1","2019-10-13 20:44:00","Costieri D’Alesio","lamma",1
+"R1","2019-10-13 20:44:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-10-13 20:44:00","Depositi Costieri del Tirreno","lamma",1
+"R1","2019-10-13 20:44:00","Raffineria ENI","eni",1
+"R1","2019-10-13 20:44:00","Raffineria ENI","ispra",1
+"R1","2019-10-13 20:44:00","Raffineria ENI","lamma",1
+"R1","2019-10-13 20:44:00","Toscopetrol","eni",1
+"R1","2019-10-13 20:44:00","Toscopetrol","lamma",1
+"R1","2019-10-14 19:03:00","SAI","eni",1
+"R1","2019-10-15 11:05:00","Raffineria ENI","eni",1
+"R1","2019-10-15 11:05:00","SAI","lamma",1
+"R1","2019-10-17 22:58:00","Costieri D’Alesio","ispra",1
+"R1","2019-10-17 22:58:00","Costieri D’Alesio","lamma",1
+"R1","2019-10-17 22:58:00","Depositi Costieri del Tirreno","ispra",1
+"R1","2019-10-17 22:58:00","Depositi Neri","lamma",1
+"R1","2019-10-17 22:58:00","Raffineria ENI","ispra",1
+"R1","2019-10-17 22:58:00","Raffineria ENI","lamma",1
+"R1","2019-10-20 17:00:00","Costieri D’Alesio","eni",1
+"R1","2019-10-20 17:00:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-10-20 17:00:00","Raffineria ENI","eni",1
+"R1","2019-10-20 17:00:00","Toscopetrol","eni",1
+"R1","2019-10-20 19:09:00","Costieri D’Alesio","eni",1
+"R1","2019-10-20 19:09:00","Costieri D’Alesio","ispra",1
+"R1","2019-10-20 19:09:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-10-20 19:09:00","Raffineria ENI","eni",1
+"R1","2019-10-20 19:09:00","Raffineria ENI","ispra",1
+"R1","2019-10-20 19:09:00","Toscopetrol","eni",1
+"R1","2019-10-20 19:09:00","Toscopetrol","ispra",1
+"R1","2019-10-24 09:03:00","Costieri D’Alesio","eni",1
+"R1","2019-10-24 09:03:00","Raffineria ENI","eni",1
+"R1","2019-10-24 09:03:00","Toscopetrol","eni",1
+"R1","2019-10-24 21:23:00","Costieri D’Alesio","eni",1
+"R1","2019-10-24 21:23:00","Costiero gas","eni",1
+"R1","2019-10-24 21:23:00","Depositi Neri","eni",1
+"R1","2019-10-24 21:23:00","Raffineria ENI","eni",1
+"R1","2019-10-24 21:23:00","SAI","eni",1
+"R1","2019-11-15 09:57:00","Raffineria ENI","eni",1
+"R1","2019-11-18 08:28:00","Raffineria ENI","eni",1
+"R1","2019-11-25 21:15:00","Raffineria ENI","ispra",1
+"R1","2019-11-30 20:17:00","Costieri D’Alesio","eni",1
+"R1","2019-11-30 20:17:00","Costieri D’Alesio","ispra",1
+"R1","2019-11-30 20:17:00","Costieri D’Alesio","lamma",1
+"R1","2019-11-30 20:17:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-11-30 20:17:00","Depositi Costieri del Tirreno","ispra",1
+"R1","2019-11-30 20:17:00","Depositi Costieri del Tirreno","lamma",1
+"R1","2019-11-30 20:17:00","Raffineria ENI","ispra",1
+"R1","2019-11-30 20:17:00","Raffineria ENI","lamma",1
+"R1","2019-11-30 20:17:00","Toscopetrol","lamma",1
+"R1","2019-12-06 17:16:00","Costieri D’Alesio","eni",1
+"R1","2019-12-06 17:16:00","Costieri D’Alesio","ispra",1
+"R1","2019-12-06 17:16:00","Depositi Neri","ispra",1
+"R1","2019-12-06 17:16:00","Raffineria ENI","eni",1
+"R1","2019-12-06 17:16:00","SAI","ispra",1
+"R1","2019-12-19 09:55:00","Costieri D’Alesio","ispra",1
+"R1","2019-12-19 09:55:00","Raffineria ENI","eni",1
+"R1","2019-12-28 18:03:00","Costieri D’Alesio","eni",1
+"R1","2019-12-28 18:03:00","Depositi Costieri del Tirreno","eni",1
+"R1","2019-12-28 18:03:00","Raffineria ENI","lamma",1
+"R1","2019-12-28 18:03:00","Toscopetrol","eni",1
+"R1","2020-01-03 18:01:00","Costieri D’Alesio","ispra",1
+"R1","2020-01-03 18:01:00","Costieri D’Alesio","lamma",1
+"R1","2020-01-03 18:01:00","Costiero gas","ispra",1
+"R1","2020-01-03 18:01:00","Depositi Costieri del Tirreno","lamma",1
+"R1","2020-01-03 18:01:00","Depositi Neri","ispra",1
+"R1","2020-01-03 18:01:00","Raffineria ENI","lamma",1
+"R1","2020-01-03 18:01:00","Toscopetrol","lamma",1
+"R1","2020-01-09 20:43:00","Depositi Neri","ispra",1
+"R1","2020-01-09 20:43:00","SAI","ispra",1
+"R1","2020-01-09 20:43:00","SAI","lamma",1
+"R1","2020-01-17 02:42:00","Costieri D’Alesio","ispra",1
+"R1","2020-01-17 02:42:00","Costieri D’Alesio","lamma",1
+"R1","2020-01-17 02:42:00","Depositi Costieri del Tirreno","ispra",1
+"R1","2020-01-17 02:42:00","Depositi Costieri del Tirreno","lamma",1
+"R1","2020-01-17 02:42:00","Raffineria ENI","ispra",1
+"R1","2020-01-17 02:42:00","Raffineria ENI","lamma",1
+"R1","2020-01-17 02:42:00","Toscopetrol","ispra",1
+"R1","2020-01-17 02:42:00","Toscopetrol","lamma",1
+"R1","2020-02-02 09:45:00","Costieri D’Alesio","lamma",1
+"R10","2019-07-04 00:00:00","Raffineria ENI","eni",1
+"R11","2019-07-17 01:10:00","Costieri D’Alesio","ispra",1
+"R11","2019-07-17 01:10:00","Depositi Costieri del Tirreno","ispra",1
+"R11","2019-07-17 01:10:00","Raffineria ENI","eni",1
+"R11","2019-07-17 01:10:00","Raffineria ENI","ispra",1
+"R11","2019-07-17 01:10:00","Toscopetrol","ispra",1
+"R11","2019-07-20 02:00:00","Raffineria ENI","ispra",1
+"R11","2019-08-01 23:00:00","Raffineria ENI","ispra",1
+"R11","2019-08-12 01:00:00","Costieri D’Alesio","ispra",1
+"R11","2019-08-12 01:00:00","Raffineria ENI","lamma",1
+"R11","2019-08-13 00:30:00","Costieri D’Alesio","ispra",1
+"R11","2019-08-13 00:30:00","Depositi Neri","ispra",1
+"R11","2019-08-13 00:30:00","SAI","ispra",1
+"R11","2019-08-20 00:30:00","Costieri D’Alesio","ispra",9
+"R11","2019-08-20 00:30:00","Costieri D’Alesio","lamma",10
+"R11","2019-08-20 00:30:00","Costiero gas","lamma",5
+"R11","2019-08-20 00:30:00","Depositi Costieri del Tirreno","ispra",9
+"R11","2019-08-20 00:30:00","Depositi Costieri del Tirreno","lamma",3
+"R11","2019-08-20 00:30:00","Depositi Neri","lamma",4
+"R11","2019-08-20 00:30:00","Raffineria ENI","ispra",12
+"R11","2019-08-20 00:30:00","Raffineria ENI","lamma",10
+"R11","2019-08-20 00:30:00","SAI","lamma",3
+"R11","2019-08-20 00:30:00","Toscopetrol","ispra",9
+"R11","2019-08-20 00:30:00","Toscopetrol","lamma",3
+"R11","2019-10-27 20:00:00","Costieri D’Alesio","eni",4
+"R11","2019-10-27 20:00:00","Costieri D’Alesio","ispra",9
+"R11","2019-10-27 20:00:00","Costieri D’Alesio","lamma",6
+"R11","2019-10-27 20:00:00","Costiero gas","ispra",10
+"R11","2019-10-27 20:00:00","Costiero gas","lamma",6
+"R11","2019-10-27 20:00:00","Depositi Costieri del Tirreno","eni",4
+"R11","2019-10-27 20:00:00","Depositi Neri","ispra",8
+"R11","2019-10-27 20:00:00","Depositi Neri","lamma",6
+"R11","2019-10-27 20:00:00","Raffineria ENI","eni",6
+"R11","2019-10-27 20:00:00","SAI","ispra",5
+"R11","2019-10-27 20:00:00","SAI","lamma",5
+"R11","2019-10-27 20:00:00","Toscopetrol","eni",4
+"R11","2019-10-29 22:04:00","Costieri D’Alesio","eni",1
+"R11","2019-10-29 22:04:00","Costieri D’Alesio","ispra",1
+"R11","2019-10-29 22:04:00","Depositi Costieri del Tirreno","ispra",1
+"R11","2019-10-29 22:04:00","Raffineria ENI","ispra",1
+"R11","2019-10-29 22:04:00","Raffineria ENI","lamma",1
+"R11","2019-10-29 22:04:00","Toscopetrol","eni",1
+"R11","2019-10-29 22:04:00","Toscopetrol","ispra",1
+"R11","2019-11-13 07:00:00","Costieri D’Alesio","eni",3
+"R11","2019-11-13 07:00:00","Costieri D’Alesio","ispra",3
+"R11","2019-11-13 07:00:00","Costieri D’Alesio","lamma",5
+"R11","2019-11-13 07:00:00","Depositi Costieri del Tirreno","eni",2
+"R11","2019-11-13 07:00:00","Depositi Costieri del Tirreno","ispra",1
+"R11","2019-11-13 07:00:00","Depositi Costieri del Tirreno","lamma",4
+"R11","2019-11-13 07:00:00","Depositi Neri","eni",1
+"R11","2019-11-13 07:00:00","Raffineria ENI","eni",6
+"R11","2019-11-13 07:00:00","Raffineria ENI","ispra",5
+"R11","2019-11-13 07:00:00","Raffineria ENI","lamma",8
+"R11","2019-11-13 07:00:00","SAI","eni",1
+"R11","2019-11-13 07:00:00","Toscopetrol","eni",1
+"R11","2019-11-13 07:00:00","Toscopetrol","ispra",2
+"R11","2019-11-13 07:00:00","Toscopetrol","lamma",4
+"R11","2020-01-08 22:45:00","Raffineria ENI","ispra",1
+"R11","2020-01-08 22:45:00","Raffineria ENI","lamma",1
+"R11","2020-01-09 20:03:00","Costieri D’Alesio","ispra",1
+"R11","2020-01-09 20:03:00","Costieri D’Alesio","lamma",1
+"R11","2020-01-09 20:03:00","Costiero gas","lamma",1
+"R11","2020-01-11 18:20:00","Costieri D’Alesio","eni",2
+"R11","2020-01-11 18:20:00","Depositi Costieri del Tirreno","eni",1
+"R11","2020-01-11 18:20:00","Raffineria ENI","eni",2
+"R11","2020-01-11 18:20:00","Toscopetrol","eni",2
+"R11","2020-01-12 20:00:00","Costieri D’Alesio","eni",2
+"R11","2020-01-12 20:00:00","Depositi Neri","eni",5
+"R11","2020-01-12 20:00:00","Raffineria ENI","ispra",8
+"R11","2020-01-12 20:00:00","SAI","eni",7
+"R11","2020-02-03 21:50:00","Costieri D’Alesio","eni",2
+"R11","2020-02-03 21:50:00","Depositi Neri","eni",2
+"R11","2020-02-03 21:50:00","Depositi Neri","ispra",1
+"R11","2020-02-03 21:50:00","Depositi Neri","lamma",1
+"R11","2020-02-03 21:50:00","SAI","eni",1
+"R11","2020-02-03 21:50:00","SAI","ispra",2
+"R11","2020-02-03 21:50:00","SAI","lamma",2
+"R11","2020-02-20 20:30:00","Costieri D’Alesio","eni",13
+"R11","2020-02-20 20:30:00","Costieri D’Alesio","ispra",20
+"R11","2020-02-20 20:30:00","Costieri D’Alesio","lamma",12
+"R11","2020-02-20 20:30:00","Costiero gas","eni",3
+"R11","2020-02-20 20:30:00","Costiero gas","lamma",8
+"R11","2020-02-20 20:30:00","Depositi Costieri del Tirreno","eni",6
+"R11","2020-02-20 20:30:00","Depositi Costieri del Tirreno","ispra",17
+"R11","2020-02-20 20:30:00","Depositi Costieri del Tirreno","lamma",4
+"R11","2020-02-20 20:30:00","Depositi Neri","eni",7
+"R11","2020-02-20 20:30:00","Depositi Neri","lamma",2
+"R11","2020-02-20 20:30:00","Raffineria ENI","ispra",20
+"R11","2020-02-20 20:30:00","Raffineria ENI","lamma",6
+"R11","2020-02-20 20:30:00","SAI","eni",5
+"R11","2020-02-20 20:30:00","SAI","lamma",2
+"R11","2020-02-20 20:30:00","Toscopetrol","eni",4
+"R11","2020-02-20 20:30:00","Toscopetrol","ispra",17
+"R11","2020-02-20 20:30:00","Toscopetrol","lamma",4
+"R12","2019-08-02 01:18:00","SAI","lamma",1
+"R14","2019-08-13 00:00:00","Costieri D’Alesio","eni",15
+"R14","2019-08-13 00:00:00","Costieri D’Alesio","ispra",1
+"R14","2019-08-13 00:00:00","Costieri D’Alesio","lamma",2
+"R14","2019-08-13 00:00:00","Costiero gas","eni",9
+"R14","2019-08-13 00:00:00","Costiero gas","lamma",1
+"R14","2019-08-13 00:00:00","Depositi Costieri del Tirreno","eni",2
+"R14","2019-08-13 00:00:00","Depositi Neri","eni",10
+"R14","2019-08-13 00:00:00","Depositi Neri","ispra",2
+"R14","2019-08-13 00:00:00","Depositi Neri","lamma",3
+"R14","2019-08-13 00:00:00","Raffineria ENI","eni",3
+"R14","2019-08-13 00:00:00","SAI","eni",9
+"R14","2019-08-13 00:00:00","SAI","ispra",4
+"R14","2019-08-13 00:00:00","SAI","lamma",3
+"R14","2019-08-13 00:00:00","Toscopetrol","eni",4
+"R15","2019-08-22 01:00:00","Costieri D’Alesio","ispra",1
+"R15","2019-08-22 01:00:00","Raffineria ENI","ispra",1
+"R15","2019-08-22 01:00:00","Toscopetrol","ispra",1
+"R16","2019-09-04 23:00:00","Costieri D’Alesio","lamma",1
+"R16","2019-10-11 22:00:00","Costieri D’Alesio","eni",1
+"R16","2019-10-11 22:00:00","Costieri D’Alesio","ispra",1
+"R16","2019-10-11 22:00:00","Costieri D’Alesio","lamma",1
+"R16","2019-10-11 22:00:00","Depositi Costieri del Tirreno","ispra",1
+"R16","2019-10-11 22:00:00","Depositi Costieri del Tirreno","lamma",1
+"R16","2019-10-11 22:00:00","Raffineria ENI","ispra",1
+"R16","2019-10-11 22:00:00","Raffineria ENI","lamma",1
+"R16","2019-10-11 22:00:00","Toscopetrol","ispra",1
+"R16","2019-10-11 22:00:00","Toscopetrol","lamma",1
+"R16","2019-11-08 20:03:00","Costieri D’Alesio","ispra",1
+"R16","2019-11-08 20:03:00","Depositi Costieri del Tirreno","ispra",1
+"R16","2019-11-08 20:03:00","Raffineria ENI","eni",1
+"R16","2019-11-08 20:03:00","Raffineria ENI","ispra",1
+"R16","2019-11-08 20:03:00","Toscopetrol","ispra",1
+"R18","2019-11-30 20:03:00","Costieri D’Alesio","eni",1
+"R18","2019-11-30 20:03:00","Costieri D’Alesio","ispra",1
+"R18","2019-11-30 20:03:00","Costieri D’Alesio","lamma",1
+"R18","2019-11-30 20:03:00","Costiero gas","eni",1
+"R18","2019-11-30 20:03:00","Costiero gas","ispra",1
+"R18","2019-11-30 20:03:00","Depositi Neri","eni",1
+"R18","2019-11-30 20:03:00","Depositi Neri","ispra",1
+"R18","2019-11-30 20:03:00","Depositi Neri","lamma",1
+"R18","2019-11-30 20:03:00","Raffineria ENI","lamma",1
+"R18","2019-11-30 20:03:00","SAI","eni",1
+"R18","2019-11-30 20:03:00","SAI","ispra",1
+"R19","2020-01-08 22:04:00","Costieri D’Alesio","eni",1
+"R19","2020-01-08 22:04:00","Costieri D’Alesio","ispra",1
+"R19","2020-01-08 22:04:00","Costieri D’Alesio","lamma",1
+"R19","2020-01-08 22:04:00","Costiero gas","ispra",1
+"R19","2020-01-08 22:04:00","Depositi Costieri del Tirreno","lamma",1
+"R19","2020-01-08 22:04:00","Depositi Neri","ispra",1
+"R19","2020-01-08 22:04:00","Raffineria ENI","ispra",1
+"R19","2020-01-08 22:04:00","Raffineria ENI","lamma",1
+"R19","2020-01-08 22:04:00","SAI","ispra",1
+"R19","2020-01-08 22:04:00","Toscopetrol","lamma",1
+"R2","2019-06-29 22:39:00","Costieri D’Alesio","eni",1
+"R3","2019-06-29 23:19:00","Costieri D’Alesio","lamma",1
+"R3","2019-06-29 23:19:00","Raffineria ENI","lamma",1
+"R3","2019-07-02 00:29:00","Costieri D’Alesio","eni",1
+"R3","2019-07-02 00:29:00","Costieri D’Alesio","ispra",1
+"R3","2019-07-02 00:29:00","Costiero gas","eni",1
+"R3","2019-07-02 00:29:00","Costiero gas","ispra",1
+"R3","2019-07-02 00:29:00","Depositi Neri","eni",1
+"R3","2019-07-02 00:29:00","Depositi Neri","ispra",1
+"R3","2019-07-02 00:29:00","Depositi Neri","lamma",1
+"R3","2019-07-02 00:29:00","SAI","eni",1
+"R3","2019-07-02 00:29:00","SAI","ispra",1
+"R3","2019-07-02 00:29:00","SAI","lamma",1
+"R3","2019-08-02 08:48:00","Costieri D’Alesio","eni",1
+"R3","2019-08-02 08:48:00","Costieri D’Alesio","lamma",1
+"R3","2019-08-02 08:48:00","Depositi Costieri del Tirreno","eni",1
+"R3","2019-08-02 08:48:00","Depositi Costieri del Tirreno","lamma",1
+"R3","2019-08-02 08:48:00","Depositi Neri","lamma",1
+"R3","2019-08-02 08:48:00","Raffineria ENI","eni",1
+"R3","2019-08-02 08:48:00","Raffineria ENI","lamma",1
+"R3","2019-08-02 08:48:00","Toscopetrol","lamma",1
+"R3","2019-08-13 07:30:00","Costieri D’Alesio","eni",1
+"R3","2019-08-13 07:30:00","Depositi Neri","eni",1
+"R3","2019-08-13 07:30:00","SAI","eni",1
+"R3","2019-09-09 07:52:00","Costieri D’Alesio","eni",1
+"R3","2019-09-09 07:52:00","Depositi Costieri del Tirreno","eni",1
+"R3","2019-09-09 07:52:00","Raffineria ENI","lamma",1
+"R3","2019-09-09 07:52:00","Toscopetrol","eni",1
+"R3","2019-10-27 20:25:00","Depositi Neri","eni",1
+"R3","2019-10-27 20:25:00","SAI","eni",1
+"R3","2019-10-28 20:39:00","Costieri D’Alesio","eni",1
+"R3","2019-10-28 20:39:00","Depositi Costieri del Tirreno","eni",1
+"R3","2019-10-28 20:39:00","Raffineria ENI","eni",1
+"R3","2019-10-28 20:39:00","Toscopetrol","eni",1
+"R3","2019-10-29 22:00:00","Costieri D’Alesio","eni",1
+"R3","2019-10-29 22:00:00","Costieri D’Alesio","ispra",1
+"R3","2019-10-29 22:00:00","Costieri D’Alesio","lamma",1
+"R3","2019-10-29 22:00:00","Costiero gas","eni",1
+"R3","2019-10-29 22:00:00","Costiero gas","ispra",1
+"R3","2019-10-29 22:00:00","Depositi Costieri del Tirreno","lamma",1
+"R3","2019-10-29 22:00:00","Depositi Neri","eni",1
+"R3","2019-10-29 22:00:00","Depositi Neri","ispra",1
+"R3","2019-10-29 22:00:00","Raffineria ENI","eni",1
+"R3","2019-10-29 22:00:00","Raffineria ENI","lamma",1
+"R3","2019-10-29 22:00:00","SAI","eni",1
+"R3","2019-10-29 22:00:00","SAI","ispra",1
+"R3","2019-10-29 22:00:00","Toscopetrol","lamma",1
+"R4","2019-07-01 00:00:00","Costieri D’Alesio","ispra",3
+"R4","2019-07-01 00:00:00","Costieri D’Alesio","lamma",6
+"R4","2019-07-01 00:00:00","Costiero gas","ispra",2
+"R4","2019-07-01 00:00:00","Costiero gas","lamma",2
+"R4","2019-07-01 00:00:00","Depositi Costieri del Tirreno","ispra",1
+"R4","2019-07-01 00:00:00","Depositi Costieri del Tirreno","lamma",2
+"R4","2019-07-01 00:00:00","Depositi Neri","ispra",3
+"R4","2019-07-01 00:00:00","Depositi Neri","lamma",4
+"R4","2019-07-01 00:00:00","Raffineria ENI","ispra",4
+"R4","2019-07-01 00:00:00","Raffineria ENI","lamma",11
+"R4","2019-07-01 00:00:00","SAI","ispra",2
+"R4","2019-07-01 00:00:00","Toscopetrol","ispra",1
+"R4","2019-07-01 00:00:00","Toscopetrol","lamma",2
+"R5","2019-07-01 01:00:00","Costieri D’Alesio","eni",3
+"R5","2019-07-01 01:00:00","Costieri D’Alesio","ispra",4
+"R5","2019-07-01 01:00:00","Costieri D’Alesio","lamma",2
+"R5","2019-07-01 01:00:00","Costiero gas","ispra",1
+"R5","2019-07-01 01:00:00","Costiero gas","lamma",1
+"R5","2019-07-01 01:00:00","Depositi Costieri del Tirreno","eni",2
+"R5","2019-07-01 01:00:00","Depositi Costieri del Tirreno","ispra",2
+"R5","2019-07-01 01:00:00","Depositi Costieri del Tirreno","lamma",1
+"R5","2019-07-01 01:00:00","Depositi Neri","ispra",1
+"R5","2019-07-01 01:00:00","Depositi Neri","lamma",1
+"R5","2019-07-01 01:00:00","Raffineria ENI","ispra",7
+"R5","2019-07-01 01:00:00","Raffineria ENI","lamma",2
+"R5","2019-07-01 01:00:00","SAI","ispra",1
+"R5","2019-07-01 01:00:00","SAI","lamma",3
+"R5","2019-07-01 01:00:00","Toscopetrol","eni",3
+"R5","2019-07-01 01:00:00","Toscopetrol","ispra",3
+"R5","2019-07-01 01:00:00","Toscopetrol","lamma",1
+"R5","2019-07-01 09:00:00","Costiero gas","lamma",1
+"R5","2019-07-01 09:00:00","Raffineria ENI","lamma",1
+"R5","2019-07-02 01:57:00","Costiero gas","ispra",1
+"R5","2019-07-02 01:57:00","Costiero gas","lamma",1
+"R5","2019-07-02 01:57:00","Depositi Neri","lamma",1
+"R5","2019-07-02 01:57:00","SAI","ispra",1
+"R5","2019-07-02 01:57:00","SAI","lamma",1
+"R5","2019-07-14 22:30:00","Costieri D’Alesio","eni",1
+"R5","2019-07-14 22:30:00","Costieri D’Alesio","ispra",1
+"R5","2019-07-14 22:30:00","Depositi Costieri del Tirreno","eni",1
+"R5","2019-07-14 22:30:00","Depositi Costieri del Tirreno","ispra",1
+"R5","2019-07-14 22:30:00","Depositi Neri","eni",1
+"R5","2019-07-14 22:30:00","Raffineria ENI","eni",1
+"R5","2019-07-14 22:30:00","Raffineria ENI","ispra",1
+"R5","2019-07-14 22:30:00","SAI","lamma",1
+"R5","2019-07-14 22:30:00","Toscopetrol","eni",1
+"R5","2019-07-14 22:30:00","Toscopetrol","ispra",1
+"R5","2019-07-22 02:15:00","Costieri D’Alesio","eni",1
+"R5","2019-07-22 02:15:00","Costieri D’Alesio","ispra",1
+"R5","2019-07-22 02:15:00","Costieri D’Alesio","lamma",1
+"R5","2019-07-22 02:15:00","Depositi Neri","eni",1
+"R5","2019-07-22 02:15:00","Depositi Neri","lamma",1
+"R5","2019-07-22 02:15:00","Raffineria ENI","ispra",1
+"R5","2019-07-22 02:15:00","SAI","lamma",1
+"R5","2019-07-25 03:30:00","Costieri D’Alesio","eni",1
+"R5","2019-07-25 03:30:00","Depositi Neri","eni",1
+"R5","2019-07-25 03:30:00","SAI","ispra",1
+"R5","2019-08-13 07:17:00","Costieri D’Alesio","eni",6
+"R5","2019-08-13 07:17:00","Costiero gas","eni",2
+"R5","2019-08-13 07:17:00","Depositi Neri","eni",4
+"R5","2019-08-13 07:17:00","Raffineria ENI","eni",2
+"R5","2019-08-13 07:17:00","SAI","eni",2
+"R5","2019-08-19 00:00:00","Costieri D’Alesio","eni",7
+"R5","2019-08-19 00:00:00","Costieri D’Alesio","ispra",17
+"R5","2019-08-19 00:00:00","Costieri D’Alesio","lamma",9
+"R5","2019-08-19 00:00:00","Costiero gas","lamma",1
+"R5","2019-08-19 00:00:00","Depositi Costieri del Tirreno","eni",3
+"R5","2019-08-19 00:00:00","Depositi Costieri del Tirreno","ispra",14
+"R5","2019-08-19 00:00:00","Depositi Costieri del Tirreno","lamma",7
+"R5","2019-08-19 00:00:00","Depositi Neri","eni",1
+"R5","2019-08-19 00:00:00","Depositi Neri","lamma",2
+"R5","2019-08-19 00:00:00","Raffineria ENI","ispra",19
+"R5","2019-08-19 00:00:00","Raffineria ENI","lamma",8
+"R5","2019-08-19 00:00:00","SAI","lamma",5
+"R5","2019-08-19 00:00:00","Toscopetrol","eni",2
+"R5","2019-08-19 00:00:00","Toscopetrol","ispra",16
+"R5","2019-08-19 00:00:00","Toscopetrol","lamma",6
+"R5","2019-09-19 02:00:00","Costieri D’Alesio","eni",3
+"R5","2019-09-19 02:00:00","Costieri D’Alesio","ispra",6
+"R5","2019-09-19 02:00:00","Costiero gas","ispra",6
+"R5","2019-09-19 02:00:00","Depositi Costieri del Tirreno","eni",2
+"R5","2019-09-19 02:00:00","Depositi Neri","eni",1
+"R5","2019-09-19 02:00:00","Depositi Neri","ispra",7
+"R5","2019-09-19 02:00:00","Raffineria ENI","ispra",3
+"R5","2019-09-19 02:00:00","SAI","ispra",6
+"R5","2019-09-19 02:00:00","Toscopetrol","eni",3
+"R6","2019-07-02 01:04:00","Costieri D’Alesio","eni",1
+"R6","2019-07-02 01:04:00","Costieri D’Alesio","ispra",1
+"R6","2019-07-02 01:04:00","Costiero gas","ispra",1
+"R6","2019-07-02 01:04:00","Depositi Neri","ispra",1
+"R6","2019-07-02 01:04:00","SAI","ispra",1
+"R6","2019-07-05 01:40:00","SAI","eni",1
+"R6","2020-01-04 18:57:00","Costiero gas","ispra",1
+"R6","2020-01-08 22:04:00","Costieri D’Alesio","eni",1
+"R6","2020-01-08 22:04:00","Costieri D’Alesio","ispra",1
+"R6","2020-01-08 22:04:00","Costieri D’Alesio","lamma",1
+"R6","2020-01-08 22:04:00","Costiero gas","ispra",1
+"R6","2020-01-08 22:04:00","Depositi Costieri del Tirreno","lamma",1
+"R6","2020-01-08 22:04:00","Depositi Neri","ispra",1
+"R6","2020-01-08 22:04:00","Raffineria ENI","ispra",1
+"R6","2020-01-08 22:04:00","Raffineria ENI","lamma",1
+"R6","2020-01-08 22:04:00","SAI","ispra",1
+"R6","2020-01-08 22:04:00","Toscopetrol","lamma",1
+"R7","2019-07-02 03:24:00","SAI","ispra",1
+"R7","2019-08-23 20:00:00","Costieri D’Alesio","eni",1
+"R7","2019-08-23 20:00:00","Depositi Costieri del Tirreno","eni",1
+"R7","2019-08-23 20:00:00","Raffineria ENI","eni",1
+"R7","2019-08-23 20:00:00","Toscopetrol","eni",1
+"R8","2019-07-02 03:00:00","Costieri D’Alesio","lamma",1
+"R8","2019-07-02 03:00:00","Costiero gas","ispra",1
+"R8","2019-07-02 03:00:00","Costiero gas","lamma",1
+"R8","2019-07-02 03:00:00","Depositi Neri","ispra",1
+"R8","2019-07-02 03:00:00","Depositi Neri","lamma",1
+"R8","2019-07-02 03:00:00","Raffineria ENI","lamma",1
+"R8","2019-07-02 03:00:00","SAI","ispra",1
+"R8","2019-07-02 03:00:00","SAI","lamma",1
+"R9","2019-07-02 00:00:00","Costieri D’Alesio","eni",28
+"R9","2019-07-02 00:00:00","Costieri D’Alesio","ispra",8
+"R9","2019-07-02 00:00:00","Costieri D’Alesio","lamma",4
+"R9","2019-07-02 00:00:00","Costiero gas","eni",8
+"R9","2019-07-02 00:00:00","Costiero gas","ispra",3
+"R9","2019-07-02 00:00:00","Costiero gas","lamma",4
+"R9","2019-07-02 00:00:00","Depositi Costieri del Tirreno","eni",5
+"R9","2019-07-02 00:00:00","Depositi Costieri del Tirreno","ispra",1
+"R9","2019-07-02 00:00:00","Depositi Costieri del Tirreno","lamma",1
+"R9","2019-07-02 00:00:00","Depositi Neri","eni",16
+"R9","2019-07-02 00:00:00","Depositi Neri","ispra",5
+"R9","2019-07-02 00:00:00","Depositi Neri","lamma",3
+"R9","2019-07-02 00:00:00","Raffineria ENI","eni",12
+"R9","2019-07-02 00:00:00","Raffineria ENI","ispra",2
+"R9","2019-07-02 00:00:00","Raffineria ENI","lamma",3
+"R9","2019-07-02 00:00:00","SAI","eni",11
+"R9","2019-07-02 00:00:00","SAI","ispra",5
+"R9","2019-07-02 00:00:00","SAI","lamma",4
+"R9","2019-07-02 00:00:00","Toscopetrol","eni",5
+"R9","2019-07-02 00:00:00","Toscopetrol","ispra",3
+"R9","2019-07-02 00:00:00","Toscopetrol","lamma",1
