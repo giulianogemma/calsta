@@ -1,4 +1,4 @@
-Receptor,Event_date,source,meteo,intersections_count
+Receptor,Event_date,Source,Meteo,Intersections_count
 R1,2019-06-26 22:00:00,A,ispra,2
 R1,2019-06-26 22:00:00,A,lamma,1
 R1,2019-06-26 22:00:00,B,ispra,4
